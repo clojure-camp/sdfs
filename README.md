@@ -14,7 +14,7 @@ After cloning this repo...
 - Builds to start: `:app`
 - (wait)
 - Build to connect to: `:app`
-- Open `http://localhost:8080`
+- Open `http://localhost:8081`
 - Open `src/sdfs/core.cljs`, edit and save the file to run the bot.
 
 ### Generic
@@ -24,7 +24,7 @@ npm install
 npm start
 ```
 
-Open http://localhost:8080
+Open http://localhost:8081
 
 Open `src/sdfs/core.cljs`, edit and save the file to run the bot.
 
